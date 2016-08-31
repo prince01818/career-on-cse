@@ -1,0 +1,36 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/blue">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="10dp"
+        android:orientation="vertical">
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:text="Software"
+            android:textSize="28sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:layout_marginBottom="10dp"
+            android:text="Software engineering is the study and an application of engineering to the design, development, and maintenance of software.
+Typical formal definitions of software engineering are
+research, design, develop, and test operating systems-level software, compilers, and network distribution software for medical, industrial, military, communications, aerospace, business, scientific, and general computing applications.
+the systematic application of scientific and technological knowledge, methods, and experience to the design, implementation, testing, and documentation of software.
+the application of a systematic, disciplined, quantifiable approach to the development, operation, and maintenance of software
+an engineering discipline that is concerned with all aspects of software production
+and the establishment and use of sound engineering principles in order to economically obtain software that is reliable and works efficiently on real machines.
+            "
+            android:textSize="29sp"/>
+
+
+
+    </LinearLayout>
+</ScrollView>

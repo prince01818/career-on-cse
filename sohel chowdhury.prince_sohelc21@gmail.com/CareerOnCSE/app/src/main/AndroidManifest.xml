@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.prince.careeroncse" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/back"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".FieldsActivity"
+            android:label="@string/title_activity_fields" >
+        </activity>
+        <activity
+            android:name=".DetailsActivity"
+            android:label="@string/title_activity_details" >
+        </activity>
+        <activity
+            android:name=".HardwareActivity"
+            android:label="@string/title_activity_hardware" >
+        </activity>
+        <activity
+            android:name=".SoftwareActivity"
+            android:label="@string/title_activity_software" >
+        </activity>
+        <activity
+            android:name=".SystemActivity"
+            android:label="@string/title_activity_system" >
+        </activity>
+        <activity
+            android:name=".NetworkingActivity"
+            android:label="@string/title_activity_networking" >
+        </activity>
+        <activity
+            android:name=".DatabaseActivity"
+            android:label="@string/title_activity_database" >
+        </activity>
+        <activity
+            android:name=".WebActivity"
+            android:label="@string/title_activity_web" >
+        </activity>
+        <activity
+            android:name=".GraphicsActivity"
+            android:label="@string/title_activity_graphics" >
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,31 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/blue">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="10dp"
+        android:orientation="vertical">
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:text="Hardware"
+            android:textSize="28sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:layout_marginBottom="10dp"
+            android:text="
+ Most computer hardware engineers research, develop, design, and test various computer equipment. This can range from circuit boards and microprocessors to routers. Some update existing computer equipment to be more efficient and work with newer software. Most computer hardware engineers work in research laboratories and high-tech manufacturing firms. Some also work for the federal government. According to BLS, 95% of computer hardware engineers work in metropolitan areas .They generally work full-time. Approximately 33% of their work requires more than 40 hours a week. The median salary for employed qualified computer hardware engineers (2012) was $100,920 per year or $48.52 per hour. Computer hardware engineers held 83,300 jobs in 2012
+            "
+            android:textSize="29sp"/>
+
+
+
+    </LinearLayout>
+</ScrollView>

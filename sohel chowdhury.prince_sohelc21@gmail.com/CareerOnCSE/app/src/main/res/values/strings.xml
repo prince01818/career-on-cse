@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">CareerOnCSE</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="info">Career in IT is considered one of the most high-paying jobs and is full of opportunities particularly when India is prowess in information technology industry is recognized across the globe. The pool of talented computer engineers working in IT companies of the USA and Canada shows that IT can take a person to higher levels. Numerous IT companies from India employ huge number of computer professionals in their Indian and overseas offices.
+    Candidates willing to excel in computer engineering should have sound command over mathematics and science to clear entrance exam conducted soon after 12th class. Advanced knowledge of chemistry and physics would help the candidates get through  the entrance exam conducted by engineering colleges in India. Candidates who wish to do BE  BTech in Computer Engineering must have passed 10+2 or equivalent examination, with Physics, Chemistry and Mathematics. Similarly, those who wish to do Diploma in Computer Engineering must have passed 10 + 2 with Science Subjects. Candidates may opt for M.E  M. Tech in Computer Science for further specialization in Computer Science.</string>
+    <string name="title_activity_fields">Fields</string>
+    <string name="title_activity_details">Details</string>
+    <string name="details1">
+        A computer programmer, or coder, is someone who writes computer software. The term computer programmer can refer to a specialist in one area of computer programming or to a generalist who writes code for many kinds of software.
+One who practices or professes a formal approach to programming may also be known as a programmer analyst. The term programmer can be used to refer to a software developer, software engineer, computer scientist, or software analyst. However, members of these professions typically possess other software engineering skills beyond programming. For this reason, the term programmer is sometimes considered an oversimplification of these other professions.</string>
+    <string name="title_activity_hardware">Hardware Fields</string>
+    <string name="title_activity_software">Software Fields</string>
+    <string name="title_activity_system">SystemActivity</string>
+    <string name="title_activity_networking">Networking Fields</string>
+    <string name="title_activity_database">Database Fields</string>
+    <string name="title_activity_web">Web Fields</string>
+    <string name="title_activity_graphics">GraphicsActivity</string>
+    <string name="DATA"></string>
+
+
+
+
+    <string name="HARD"></string>
+    <string name="SOFT">
+</string>
+
+    <string name="NET">
+</string>
+
+
+</resources>

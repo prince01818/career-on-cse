@@ -1,0 +1,111 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/blue">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="10dp"
+        android:orientation="vertical">
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:textColor="#fafafa"
+            android:layout_marginTop="15dp"
+            android:textSize="30sp"
+            android:background="#000"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:onClick="programmers"
+            android:text="Programmers"/>
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:textColor="#fafafa"
+            android:layout_marginTop="15dp"
+            android:textSize="30sp"
+            android:background="#000"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:onClick="hardware"
+            android:text="Hardware Engineer"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:textColor="#fafafa"
+            android:layout_marginTop="15dp"
+            android:textSize="30sp"
+            android:background="#000"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:onClick="software"
+            android:text="Software Engineer"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:textColor="#fafafa"
+            android:layout_marginTop="15dp"
+            android:textSize="30sp"
+            android:background="#000"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:onClick="system"
+            android:text="System Analyst"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:textColor="#fafafa"
+            android:layout_marginTop="15dp"
+            android:textSize="30sp"
+            android:background="#000"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:onClick="networking"
+            android:text="Networking Engineer"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:textColor="#fafafa"
+            android:layout_marginTop="15dp"
+            android:textSize="30sp"
+            android:background="#000"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:onClick="database"
+            android:text="Database Administration"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:textColor="#fafafa"
+            android:layout_marginTop="15dp"
+            android:textSize="30sp"
+            android:background="#000"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:onClick="web"
+            android:text="Web Developer"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:textColor="#fafafa"
+            android:layout_marginTop="15dp"
+            android:textSize="30sp"
+            android:background="#000"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:onClick="graphics"
+            android:text="Graphics Designer"/>
+
+
+
+    </LinearLayout>
+</ScrollView>

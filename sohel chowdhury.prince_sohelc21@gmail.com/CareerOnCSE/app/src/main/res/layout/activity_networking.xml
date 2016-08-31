@@ -1,0 +1,41 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/blue">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="10dp"
+        android:orientation="vertical">
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:text="Networing"
+            android:textSize="28sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:layout_marginBottom="10dp"
+            android:text=" A computer network or data network is a telecommunications network which allows computers to exchange data. In computer networks, networked computing devices exchange data with each other along network links (data connections). The connections between nodes are established using either cable media or wireless media. The best-known computer network is the Internet.Network computer devices that originate, route and terminate the data are called network nodes. Nodes can include hosts such as personal computers, phones, servers as well as networking hardware. Two such devices can be said to be networked together when one device is able to exchange information with the other device, whether or not they have a direct connection to each other.
+There are different types of network, such as
+LANs - local area networks, linking a limited area such as a home, office or small group of buildings
+MANs - metropolitan area networks, linking a large area such as a campus or city
+WANs - wide area networks, which link nationally or internationally
+WLAN - wireless local area network
+GANs - global area networks, combining all of the above with satellite mobile-communication technologies
+SAN - storage system server small area network
+CAN - campus controller cluster area network
+PAN - personal area network
+DAN - desk area network
+VoIP - voice over internet protocol network.
+            "
+            android:textSize="29sp"/>
+
+
+
+    </LinearLayout>
+</ScrollView>
